@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 15   | [webview-kiosk](https://github.com/nktnet1/webview-kiosk/discussions/205)    | Feature Request    |   I requested a new feature to be added    |
 |     |     |     |      |
 |     |     |     |      |
