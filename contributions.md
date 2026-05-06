@@ -25,6 +25,10 @@ Replace the first row with your own contribution.
 | May 5    | [new deli](https://www.openstreetmap.org/changeset/182273773#map=19/40.739184/-73.871469) | OpenStreet Map feature | new store |
 | May 5    | [now a home improvement store](https://www.openstreetmap.org/way/282980457) | OpenStreet Map feature | Updated to a home improvement store |
 | May 5    | [now a ihop](https://www.openstreetmap.org/node/2863245236) | OpenStreet Map feature | Updated to an IHOP |
+| May 5    | [joined discussion on fixing a dead link](https://github.com/joannakl/ossd/issues/160) | GitHub discussion | Joined discussion on fixing a dead link |
+| May 5    | [Updated discussion on a new fix in the PR](https://github.com/joannakl/ossd/issues/156) | GitHub discussion | Updated discussion on a new fix in the PR |
+| May 5    | [Fixed stale typo + dead link issue](https://github.com/joannakl/ossd/pull/168) | GitHub PR | Issue had been stale for a long time without a claim. Addressed it in my typo PR and fixed other minor typos found while working on this typo |
+| May 5    | [Fixed stale broken link](https://github.com/joannakl/ossd/pull/169) | GitHub PR | Fixed a stale issue where the previous claim was abandoned |
 | Apr 1    | [new bagel place](https://www.openstreetmap.org/changeset/180742072#map=19/40.727680/-74.000463) | OpenStreet Map feature | Added a new bagel place |
 | Apr 1    | [now a new restaurant](https://www.openstreetmap.org/changeset/180741965#map=19/40.729966/-74.004230) | OpenStreet Map feature | Updated to a new restaurant |
 | Apr 1    | [now a new burger place](https://www.openstreetmap.org/changeset/180741879#map=19/40.729454/-74.000810) | OpenStreet Map feature | Updated to a new burger place |
